@@ -1,0 +1,10 @@
+.grid{
+    display: grid;
+/*2 columnas*/
+    grid-template-columns: 2fr 1fr;
+
+    /*2 filas */
+
+    grid-template-rows: 3fr 1fr;
+
+}
