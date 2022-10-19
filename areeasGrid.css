@@ -1,4 +1,5 @@
 #grilla{
+    height: 100%;
     display: grid;
     grid-template-areas:
     "nav header header"
@@ -46,8 +47,6 @@ aside{
 }
 html, body{
     height: 100%;
+    background-color: coral;
 
-}
-*{
-    height: 100%;
 }
